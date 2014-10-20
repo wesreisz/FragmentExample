@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>Test 1</item>
+        <item>Test 2</item>
+        <item>Test 3</item>
+        <item>Test 4</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet felis non sapien volutpat, nec malesuada tellus pharetra. Integer congue nisl non lacus sollicitudin efficitur. Duis ut nulla eget quam condimentum interdum egestas nec nulla. Cras nec interdum nunc, in pe</item>
+        <item>bendum venenatis. Morbi pulvinar nisl et mauris tincidunt egestas. Quisque condimentum magna dolor, eget tincidunt augue maximus ac. Nulla sit amet mi vitae enim bibendum pretium. Nullam consequat tortor nec bibendum commodo. Mauris tempus ips</item>
+        <item>Aenean eros felis, fringilla sed enim et, dignissim euismod dui. Pellentesque lobortis fringilla felis sed maximus. Curabitur est nunc, volutpat id felis ut, congue varius tellus. In hac habitasse platea dictumst. Vivamus vehicula, nibh in facilisis volutpat</item>
+        <item>Vivamus ac maximus ante. Morbi quis mattis metus, in finibus sem. Mauris pellentesque quam et ante ultrices volutpat. Cras ele</item>
+    </string-array>
+</resources>
